@@ -15,7 +15,7 @@
 #### *Material UI
 
 ### Demonstração da aplicação
-![Tela inicial]('./src/assets/gif/ibge.gif')
+![Tela inicial](./src/assets/gif/ibge.gif)
 
 
 ### Como visualizar aplicação em sua máquina:
